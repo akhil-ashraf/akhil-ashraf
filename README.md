@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Akhil Ashraf Ali</h1>
-<h3 align="center">AI/Ml Engineer</h3>
+<h3 align="center">AI/ML Engineer</h3>
 
 - 💬 Welcome to my GitHub profile! I'm a passionate AI and Data Science professional with a B.Tech degree in AI and Data Science.
 
