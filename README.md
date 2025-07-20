@@ -14,6 +14,5 @@
 
 - Email: [akhilashraf51@gmail.com](mailto:akhilashraf51@gmail.com)
 - LinkedIn: [Akhil Ashraf Ali](https://www.linkedin.com/in/akhil-ashraf-ali/)
-- GitHub: [@nihalanas](https://github.com/akhil-ashraf)
 
 
