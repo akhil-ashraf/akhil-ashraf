@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Akhil Ashraf Ali</h1>
+<h3 align="center">AI/Ml Engineer</h3>
 
-<!--
-**akhil-ashraf/akhil-ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Welcome to my GitHub profile! I'm a passionate AI and Data Science professional with a B.Tech degree in AI and Data Science.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages -** Python, SQL.
+- **AI/ML -** LLM, Computer Vision, NLP, Data Analytics.
+- **Agentic frameworks -** Langchain.
+- **Other tools -** Streamlit.
+
+## ✉️ Connect With Me
+
+- Email: [akhilashraf51@gmail.com](mailto:akhilashraf51@gmail.com)
+- LinkedIn: [Akhil Ashraf Ali](https://www.linkedin.com/in/akhil-ashraf-ali/)
+- GitHub: [@nihalanas](https://github.com/akhil-ashraf)
+
+## 📊 GitHub Stats
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalanas&theme=github_dark)
