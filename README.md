@@ -16,6 +16,4 @@
 - LinkedIn: [Akhil Ashraf Ali](https://www.linkedin.com/in/akhil-ashraf-ali/)
 - GitHub: [@nihalanas](https://github.com/akhil-ashraf)
 
-## 📊 GitHub Stats
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalanas&theme=github_dark)
